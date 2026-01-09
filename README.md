@@ -29,6 +29,14 @@ The goal is to demonstrate SQL-based data analysis and business intelligence rep
 
 (See Power BI dashboard for interactive views of monthly revenue trends and product performance.)
 
+## Dashboard Preview
+
+### Overview
+![Dashboard Overview](outputs/dashboard_page1_overview.png)
+
+### Detailed Analysis
+![Dashboard Details](outputs/dashboard_page2_details.png)
+
 ## Project Structure
 - `/SQL` – SQL scripts used for analysis
 - `/powerbi` – Power BI dashboard file
